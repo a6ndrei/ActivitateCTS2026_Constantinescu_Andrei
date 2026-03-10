@@ -3,6 +3,7 @@ package main;
 import clase.Aplicant;
 import clase.readers.ReaderAngajati;
 import clase.readers.ReaderAplicanti;
+import clase.readers.ReaderElevi;
 
 import java.io.FileNotFoundException;
 import java.util.List;
@@ -10,11 +11,14 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         List<Aplicant> listaAngajati;
+        Aplicant.setPragPunctaj(85);
         try{
-            ReaderAplicanti ra = new ReaderAngajati();
-            listaAngajati = ra.readAplicanti("Seminar2/angajati.txt");
+            ReaderAplicanti ra = new ReaderAngajati("Seminar2/angajati.txt");
+            listaAngajati = ra.readAplicanti();
             for(Aplicant aplicant: listaAngajati){
                 System.out.println(aplicant.toString());
+                aplicant.afisareVenit();
+                aplicant.afisareStatut();
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();

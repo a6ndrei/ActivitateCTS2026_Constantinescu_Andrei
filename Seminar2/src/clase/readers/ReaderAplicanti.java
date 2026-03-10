@@ -7,7 +7,13 @@ import java.util.List;
 import java.util.Scanner;
 
 public abstract class ReaderAplicanti {
-    public abstract List<Aplicant> readAplicanti(String file) throws FileNotFoundException;
+    protected String numefisier;
+
+    public ReaderAplicanti(String numefisier) {
+        this.numefisier = numefisier;
+    }
+
+    public abstract List<Aplicant> readAplicanti() throws FileNotFoundException;
     public void citesteAplicanti(Scanner input, Aplicant aplicant) {
         String nume=input.next();
         aplicant.setNume(nume);
@@ -18,11 +24,11 @@ public abstract class ReaderAplicanti {
         int punctaj = Integer.valueOf(input.nextInt());
         aplicant.setPunctaj(punctaj);
         int nr=Integer.valueOf(input.nextInt());
-        String[] vect= new String[5];
+        String[] vect= new String[nr];
         for(int i=0;i<nr;i++){
             vect[i]=input.next();
         }
-        aplicant.setNr_proiecte(nr,vect);
+        aplicant.setNrProiecte(nr,vect);
 
     }
 }

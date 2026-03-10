@@ -11,22 +11,25 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ReaderElevi extends ReaderAplicanti {
+    public ReaderElevi(String numaFisier) {
+        super(numaFisier);
+    }
 
     @Override
-    public List<Aplicant> readAplicanti(String file) throws FileNotFoundException {
-        Scanner input2= new Scanner(new File(file));
-        input2.useDelimiter(",|\n");
+    public List<Aplicant> readAplicanti() throws FileNotFoundException {
+        Scanner input= new Scanner(new File(super.numefisier));
+        input.useDelimiter(",|\n");
         List<Aplicant> elevi= new ArrayList<>();
-        while(input2.hasNext()) {
+        while(input.hasNext()) {
             Elev e = new Elev();
-            super.citesteAplicanti(input2,e);
-            int clasa = input2.nextInt();
+            super.citesteAplicanti(input,e);
+            int clasa = input.nextInt();
             e.setClasa(clasa);
-            String tutore = input2.next();
+            String tutore = input.next();
             e.setTutore(tutore);
             elevi.add(e);
         }
-        input2.close();
+        input.close();
         return elevi;
     }
 }

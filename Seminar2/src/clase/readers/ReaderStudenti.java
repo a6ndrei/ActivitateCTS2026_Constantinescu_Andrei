@@ -10,10 +10,13 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ReaderStudenti extends ReaderAplicanti{
+    public ReaderStudenti(String numaFisier) {
+        super(numaFisier);
+    }
 
     @Override
-    public List<Aplicant> readAplicanti(String file) throws FileNotFoundException {
-        Scanner input= new Scanner(new File(file));
+    public List<Aplicant> readAplicanti() throws FileNotFoundException {
+        Scanner input= new Scanner(new File(super.numefisier));
         input.useDelimiter(",|\n");
         List<Aplicant> studenti= new ArrayList<>();
         while(input.hasNext()) {
