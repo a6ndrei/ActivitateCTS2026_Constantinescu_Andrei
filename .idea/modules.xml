@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_Singleton/Seminar4_Singleton.iml" filepath="$PROJECT_DIR$/Seminar4_Singleton/Seminar4_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" filepath="$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory_LucruSuplimentar/SimpleFactory_LucruSuplimentar.iml" filepath="$PROJECT_DIR$/SimpleFactory_LucruSuplimentar/SimpleFactory_LucruSuplimentar.iml" />
     </modules>
   </component>
