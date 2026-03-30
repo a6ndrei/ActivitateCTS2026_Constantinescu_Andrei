@@ -22,4 +22,6 @@ public class Zebra extends Animal{
         buffer.append(this.nrDungi);
         return buffer.toString();
     }
+
+
 }
