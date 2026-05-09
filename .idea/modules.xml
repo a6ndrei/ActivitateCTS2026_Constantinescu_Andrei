@@ -24,6 +24,10 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar9_Adapter/Seminar9_Adapter.iml" filepath="$PROJECT_DIR$/Seminar9_Adapter/Seminar9_Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9_Proxy/Seminar9_Proxy.iml" filepath="$PROJECT_DIR$/Seminar9_Proxy/Seminar9_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9_facade/Seminar9_facade.iml" filepath="$PROJECT_DIR$/Seminar9_facade/Seminar9_facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeminarRecuperareCommand/SeminarRecuperareCommand.iml" filepath="$PROJECT_DIR$/SeminarRecuperareCommand/SeminarRecuperareCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeminarRecuperareComposite/SeminarRecuperareComposite.iml" filepath="$PROJECT_DIR$/SeminarRecuperareComposite/SeminarRecuperareComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeminarRecuperareDecorator/SeminarRecuperareDecorator.iml" filepath="$PROJECT_DIR$/SeminarRecuperareDecorator/SeminarRecuperareDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeminarRecuperareObserver/SeminarRecuperareObserver.iml" filepath="$PROJECT_DIR$/SeminarRecuperareObserver/SeminarRecuperareObserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory_LucruSuplimentar/SimpleFactory_LucruSuplimentar.iml" filepath="$PROJECT_DIR$/SimpleFactory_LucruSuplimentar/SimpleFactory_LucruSuplimentar.iml" />
     </modules>
   </component>
