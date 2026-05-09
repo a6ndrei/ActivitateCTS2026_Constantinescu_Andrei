@@ -11,6 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/RezolvareSubCafenele/RezolvareSubCafenele.iml" filepath="$PROJECT_DIR$/RezolvareSubCafenele/RezolvareSubCafenele.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10_Flyweight/Seminar10_Flyweight.iml" filepath="$PROJECT_DIR$/Seminar10_Flyweight/Seminar10_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_Strategy/Seminar10_Strategy.iml" filepath="$PROJECT_DIR$/Seminar10_Strategy/Seminar10_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11_ChainOfResponsability/Seminar11_ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Seminar11_ChainOfResponsability/Seminar11_ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11_Command/Seminar11_Command.iml" filepath="$PROJECT_DIR$/Seminar11_Command/Seminar11_Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11_Strategy/Seminar11_Strategy.iml" filepath="$PROJECT_DIR$/Seminar11_Strategy/Seminar11_Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_Singleton/Seminar4_Singleton.iml" filepath="$PROJECT_DIR$/Seminar4_Singleton/Seminar4_Singleton.iml" />
