@@ -12,7 +12,7 @@ public class Main {
 
         DispozitivSecuritate dispozitivAdaptat = new YalaAdapter(yalaNoua);
 
-        System.out.println("Sistemul central încearcă să deschidă yala:");
+        System.out.println("Sistemul central încearca să deschida yala:");
         dispozitivAdaptat.verificaIdentitate();
     }
 }
