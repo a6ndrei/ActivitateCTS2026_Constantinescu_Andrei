@@ -5,12 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS2026_Constantinescu_Andrei.iml" filepath="$PROJECT_DIR$/ActivitateCTS2026_Constantinescu_Andrei.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarAdapter/LucruSuplimentarAdapter.iml" filepath="$PROJECT_DIR$/LucruSuplimentarAdapter/LucruSuplimentarAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarBuilder/LucruSuplimentarBuilder.iml" filepath="$PROJECT_DIR$/LucruSuplimentarBuilder/LucruSuplimentarBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarChainOfResponsability/LucruSuplimentarChainOfResponsability.iml" filepath="$PROJECT_DIR$/LucruSuplimentarChainOfResponsability/LucruSuplimentarChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarFacade/LucruSuplimentarFacade.iml" filepath="$PROJECT_DIR$/LucruSuplimentarFacade/LucruSuplimentarFacade.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarFactoryMethod/LucruSuplimentarFactoryMethod.iml" filepath="$PROJECT_DIR$/LucruSuplimentarFactoryMethod/LucruSuplimentarFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarFlyweight/LucruSuplimentarFlyweight.iml" filepath="$PROJECT_DIR$/LucruSuplimentarFlyweight/LucruSuplimentarFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarProtoType/LucruSuplimentarProtoType.iml" filepath="$PROJECT_DIR$/LucruSuplimentarProtoType/LucruSuplimentarProtoType.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarSeminar1/LucruSuplimentarSeminar1.iml" filepath="$PROJECT_DIR$/LucruSuplimentarSeminar1/LucruSuplimentarSeminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarSimpleFactory/LucruSuplimentarSimpleFactory.iml" filepath="$PROJECT_DIR$/LucruSuplimentarSimpleFactory/LucruSuplimentarSimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruSuplimentarStrategy/LucruSuplimentarStrategy.iml" filepath="$PROJECT_DIR$/LucruSuplimentarStrategy/LucruSuplimentarStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireAdapter/PregatireAdapter.iml" filepath="$PROJECT_DIR$/PregatireAdapter/PregatireAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireFacade/PregatireFacade.iml" filepath="$PROJECT_DIR$/PregatireFacade/PregatireFacade.iml" />
       <module fileurl="file://$PROJECT_DIR$/PregatireProxy/PregatireProxy.iml" filepath="$PROJECT_DIR$/PregatireProxy/PregatireProxy.iml" />
